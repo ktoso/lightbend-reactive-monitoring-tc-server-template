@@ -2,3 +2,6 @@
 *.iml
 target
 *.class
+
+# ignore the jar since we should download it using our sub
+lib/cinnamon-agent-2.0.0.jar
